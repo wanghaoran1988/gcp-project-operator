@@ -8,7 +8,7 @@ build/_test
 *.dll
 *.so
 *.dylib
-bin
+bin/
 testbin/*
 
 # Test binary, build with `go test -c`
